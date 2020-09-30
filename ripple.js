@@ -1,4 +1,4 @@
-let current;
+let current;  //to consider new variable
 
 document.onpointerdown = function (event) {
     if (current) {
